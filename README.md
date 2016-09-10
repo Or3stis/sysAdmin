@@ -1,2 +1,3 @@
 # sysAdmin
-collection of system admin script
+
+My personal collection of system admin scripts.
